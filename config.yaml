@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: "2"
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
